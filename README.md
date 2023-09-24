@@ -1,3 +1,5 @@
+Task: LSTM for Named Entity Recognition
+
 Packages: Numpy, Pandas, Tensorflow
 
 Model: LSTM

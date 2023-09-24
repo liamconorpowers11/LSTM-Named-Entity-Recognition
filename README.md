@@ -1,3 +1,5 @@
+Packages: Numpy, Pandas, Tensorflow
+
 Model: LSTM
 
 Data: Annotated Corpus for Named Entity Recognition 
